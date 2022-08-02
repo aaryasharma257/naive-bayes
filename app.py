@@ -92,12 +92,12 @@ if st.button("Review Analysis"):
       
 if st.button("About"):
   st.subheader("Developed by Aarya Sharma")
-  st.subheader("Poornima Institute of En gineering and Technology")
+  st.subheader("Poornima Institute of Engineering and Technology")
 html_temp = """
    <div class="" style="background-color:orange;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:20px;color:white;margin-top:10px;">Summer Internship 2022 Project Deployment</p></center> 
+   <center><p style="font-size:20px;color:blue;margin-top:10px;">Summer Internship 2022 Project Deployment</p></center> 
    </div>
    </div>
    </div>
