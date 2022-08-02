@@ -70,7 +70,7 @@ def review(text):
     
   return result
 html_temp = """
-   <div class="" style="background-color:blue;" >
+   <div class="" style="background-color:pink;" >
    <div class="clearfix">           
    <div class="col-md-12">
    <center><p style="font-size:40px;color:white;margin-top:10px;">Poornima Institute of Engineering & Technology</p></center> 
@@ -92,7 +92,7 @@ if st.button("Review Analysis"):
       
 if st.button("About"):
   st.subheader("Developed by Aarya Sharma")
-  st.subheader("Head , Department of Computer Engineering")
+  st.subheader("Poornima Institute of En gineering and Technology")
 html_temp = """
    <div class="" style="background-color:orange;" >
    <div class="clearfix">           
